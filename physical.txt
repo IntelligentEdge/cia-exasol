@@ -1,0 +1,267 @@
+2#123########56.3#
+68#130.8########27.5#
+109#93028#89608#3420#"Tisza River 78 m"#"Kekes 1,014 m"#1.97#47.24#50.79#0#1409
+25#30528#30278#250#"North Sea 0 m"#"Botrange 694 m"#0.72#27.06#72.22#66.5#233.5
+234#35980#32260#3720#"South China Sea 0 m"#"Yu Shan 3,952 m"#1#24#75#1566.3#
+210#196722#192530#4192#"Atlantic Ocean 0 m"#"unnamed elevation southwest of Kedougou 581 m"#0.28#19.57#80.15#531#1197
+143#65300#62680#2620#"Baltic Sea 0 m"#"Aukstojas 294 m"#0.47#33.48#66.05#90#13.4
+262#5860#5640#220#"Dead Sea -408 m"#"Tall Asur 1,022 m"#10.96#7.39#81.64#0#240
+215#34#34#0#"Caribbean Sea 0 m"#"Mount Flagstaff 386 m"#0#10#90#364#
+187###0#"South China Sea 0 m"#"unnamed location on Rocky Island 14 m"#0#0#100#518#0
+233#185180#183630#1550#"unnamed location near Lake Tiberias -200 m"#"Mount Hermon 2,814 m"#5.69#24.9#69.41#193#13410
+246#948#948#0#"Caribbean Sea 0 m"#"Flamingo Hill 48 m"#0#1.05#98.95#389#
+44#9984670#9093507#891163#"Atlantic Ocean 0 m"#"Mount Logan 5,959 m"#0.49#4.3#95.2#202080#8699
+248#241038#197100#43938#"Lake Albert 621 m"#"Margherita Peak on Mount Stanley 5,110 m"#9.11#27.94#62.95#0#144.2
+28#54#54#0#"Atlantic Ocean 0 m"#"Town Hill 76 m"#0#14.8#85.2#103#
+103#27750#27560#190#"Caribbean Sea 0 m"#"Chaine de la Selle 2,680 m"#10.09#36.04#53.87#1771#970
+196#238391#229891#8500#"Black Sea 0 m"#"Moldoveanu 2,544 m"#1.86#37.73#60.41#225#6153
+104#412#412#0#"Indian Ocean 0 m"#"Mawson Peak on Big Ben volcano 2,745 m"#0#0#100#101.9#0
+5#199#199#0#"Pacific Ocean 0 m"#"Lata Mountain 964 m"#15#9.5#75.5#116#
+164#446550#446300#250#"Sebkha Tah -55 m"#"Jebel Toubkal 4,165 m"#2.6#17.79#79.61#1835#14850
+81#1393#1393#0#"Atlantic Ocean 0 m"#"Slaettaratindur 882 m"#0#2.15#97.85#1117#0
+229#62045#62045#0#"Arctic Ocean 0 m"#"Newtontoppen 1,717 m"#0#0#100#3587#
+208#964#964#0#"Atlantic Ocean 0 m"#"Pico de Sao Tome 2,024 m"#40.62#9.06#50.31#209#97
+200#308##0#"Atlantic Ocean 0 m"#"Queen Mary's Peak on Tristan da Cunha 2,060 m; Green Mountain on Ascension Island 859 m; Mount Actaeon on Saint Helena Island 818 m"#0#10.26#89.74##
+134#17818#17818#0#"Persian Gulf 0 m"#"unnamed elevation 306 m"#0.28#0.62#99.1#499#86
+159#33851#32891#960#"Dniester  2 m"#"Dealul Balanesti 430 m"#8.77#53.47#37.75#0#2283
+63#110860#109820#1040#"Caribbean Sea 0 m"#"Pico Turquino 2,005 m"#3.55#32.31#64.15#3735#8703
+52#6#6#0#"Pacific Ocean 0 m"#"Rocher Clipperton 29 m"#0#0#100#11.1#
+137#64589#62249#2340#"Baltic Sea 0 m"#"Gaizina Kalns 312 m"#0.11#17.96#81.93#498#8.3
+85#4167#3827#340#"Pacific Ocean 0 m"#"Mont Orohena 2,241 m"#6.28#0.68#93.03#2525#10
+48#1284000#1259200#24800#"Djourab 160 m"#"Emi Koussi 3,415 m"#0.02#3.82#96.16#0#302.7
+148#118484#94080#24404#"junction of the Shire River and international boundary with Mozambique 37 m"#"Sapitwa  3,002 m"#1.1#30.38#68.52#0#735
+199####"Caribbean Ocean 0 m"#"Morne du Vitet 286 m"#####
+31#51197#51187#10#"Adriatic Sea 0 m"#"Maglic 2,386 m"#1.99#19.63#78.38#20#30
+71#48670#48320#350#"Lago Enriquillo -46 m"#"Pico Duarte 3,175 m"#9.25#16.44#74.32#1288#3065
+42#181035#176515#4520#"Gulf of Thailand 0 m"#"Phnum Aoral 1,810 m"#0.86#22.09#77.05#443#3536
+166#824292#823290#1002#"Atlantic Ocean 0 m"#"Konigstein 2,606 m"#0.01#0.97#99.02#1572#75.73
+230#17364#17204#160#"Great Usutu River 21 m"#"Emlembe 1,862 m"#0.86#10.08#89.06#0#498.5
+157#702#702#0#"Pacific Ocean 0 m"#"Dolohmwar  791 m"#24.29#2.86#72.86#6112#
+225###0#"South China Sea 0 m"#"unnamed location on Southwest Cay 4 m"#0#0#100#926#5700
+251#243610#241930#1680#"The Fens -4 m"#"Ben Nevis 1,343 m"#0.18#24.88#74.93#12429#2280
+258#331210#310070#21140#"South China Sea 0 m"#"Fan Si Pan 3,144 m"#11.18#19.64#69.18#3444#45850
+156#1964375#1943945#20430#"Laguna Salada -10 m"#"Volcan Pico de Orizaba 5,700 m"#1.36#12.98#85.66#9330#64600
+152#316#316#0#"Mediterranean Sea 0 m"#"Ta'Dmejrek 253 m"#4.06#28.12#67.81#196.8#32
+121#377#377#0#"Norwegian Sea 0 m"#"Haakon VII Toppen on Beerenberg 2,277 m"#0#0#100#124.1#0
+61#322463#318003#4460#"Gulf of Guinea 0 m"#"Monts Nimba 1,752 m"#13.65#8.99#77.36#515#727.5
+145#28.2#28.2#0#"South China Sea 0 m"#"Coloane Alto 172 m"#0#0#100#41#
+120#10991#10831#160#"Caribbean Sea 0 m"#"Blue Mountain Peak 2,256 m"#9.1#10.92#79.98#1022#252.2
+92#238533#227533#11000#"Atlantic Ocean 0 m"#"Mount Afadjato 885 m"#11.74#20.12#68.14#539#309
+114#1648195#1531595#116600#"Caspian Sea -28 m"#"Kuh-e Damavand 5,671 m"#1.08#10.05#88.86#2440#87000
+207#61#61#0#"Torrente Ausa 55 m"#"Monte Titano 755 m"#0#16.67#83.33#0#
+222#644329####"Kinyeti 3,187 m"####0#
+10#442.6#442.6#0#"Caribbean Sea 0 m"#"Boggy Peak 402 m"#2.27#9.09#88.64#153#1.3
+127#2724900#2699700#25200#"Vpadina Kaundy -132 m"#"Khan Tangiri Shyngy  6,995 m"#0.03#8.82#91.15#0#20660
+266#752618#743398#9220#"Zambezi river 329 m"#"unnamed elevation in Mafinga Hills 2,301 m"#0.05#4.52#95.44#0#1559
+181#155557000###"Challenger Deep in the Mariana Trench -10,924 m"#"sea level 0 m"####135663#
+125#2.63#2.63#0#"Pacific Ocean 0 m"#"Summit Peak 5 m"#0#0#100#34#0
+140#111369#96320#15049#"Atlantic Ocean 0 m"#"Mount Wuteve 1,380 m"#1.62#4.04#94.34#579#21
+168#5.4#5.4#0#"Caribbean Sea 0 m"#"unnamed elevation on southwest side 77 m"#0#0#100#8#
+45#4033#4033#0#"Atlantic Ocean 0 m"#"Mt. Fogo 2,829 m"#0.74#11.66#87.59#965#34.76
+185#75420#74340#1080#"Pacific Ocean 0 m"#"Volcan Baru 3,475 m"#2.51#7.16#90.33#2490#346.2
+33#49#49#0#"South Atlantic Ocean 0 m"#"Olav Peak 935 m"#0#0#100#29.6#
+212#455#455#0#"Indian Ocean 0 m"#"Morne Seychellois 905 m"#4.35#2.17#93.48#491#2.6
+23#430#430#0#"Atlantic Ocean 0 m"#"Mount Hillaby 336 m"#2.33#27.91#69.77#97#54.35
+235#143100#141510#2590#"Syr Darya  300 m"#"Qullai Ismoili Somoni  7,495 m"#0.91#5.96#93.13#0#7421
+41#27830#25680#2150#"Lake Tanganyika 772 m"#"Heha 2,670 m"#14.37#33.06#52.57#0#214.3
+27#112622#110622#2000#"Atlantic Ocean 0 m"#"Mont Sokbaro 658 m"#2.61#22.48#74.9#121#230.4
+66#78867#77247#1620#"Labe  River 115 m"#"Snezka 1,602 m"#0.96#40.12#58.92#0#385.3
+75#28051#28051#0#"Atlantic Ocean 0 m"#"Pico Basile 3,008 m"#2.5#4.63#92.87#296#
+202#616#606#10#"Caribbean Sea 0 m"#"Mount Gimie 950 m"#11.29#4.84#83.87#158#30
+112#68556000###"Java Trench -7,258 m"#"sea level 0 m"####66526#
+136#236800#230800#6000#"Mekong River 70 m"#"Phu Bia 2,817 m"#0.42#5.91#93.67#0#3100
+163#102#102#0#"Caribbean Sea 0 m"#"lava dome in English's Crater"#0#20#80#40#
+30#1098581#1083301#15280#"Rio Paraguay 90 m"#"Nevado Sajama 6,542 m"#0.2#3.49#96.31#0#1282
+259#1910#346#1564#"Caribbean Sea 0 m"#"Crown Mountain 474 m"#2.86#2.86#94.29#188#1
+206#2831#2821#10#"Pacific Ocean 0 m"#"Mount Silisili 1,857 m"#7.75#2.82#89.44#403#
+161#1564116#1553556#10560#"Hoh Nuur 560 m"#"Nayramadlin Orgil  4,374 m"#0#0.39#99.61#0#843
+214#697#687#10#"Singapore Strait 0 m"#"Bukit Timah 166 m"#0.14#0.89#98.97#193#
+179#323802#304282#19520#"Norwegian Sea 0 m"#"Galdhopiggen 2,469 m"#0.01#2.52#97.46#25148#1149
+198#26338#24668#1670#"Rusizi River 950 m"#"Volcan Karisimbi 4,519 m"#9.49#46.32#44.19#0#96.25
+9#14000000#14000000##"Bentley Subglacial Trench -2,540 m"#"Vinson Massif 4,897 m"#0#0#100#17968#
+257#912050#882050#30000#"Caribbean Sea 0 m"#"Pico Bolivar 5,007 m"#0.71#2.85#96.44#2800#10550
+204#242#242#0#"Atlantic Ocean 0 m"#"Morne de la Grande Montagne 240 m"#0#8.7#91.3#120#
+172#267710#267710##"Pacific Ocean 0 m"#"Aoraki-Mount Cook 3,754 m"#0.27#1.76#97.98#15134#6193
+220#1219090#1214470#4620#"Atlantic Ocean 0 m"#"Njesuthi 3,408 m"#0.34#9.87#89.79#2798#16700
+243#163610#155360#8250#"Shatt al Gharsah -17 m"#"Jebel ech Chambi 1,544 m"#14.63#17.35#68.02#1148#3970
+244#783562#769632#13930#"Mediterranean Sea 0 m"#"Mount Ararat 5,166 m"#3.94#26.21#69.84#7200#53400
+213#71740#71620#120#"Atlantic Ocean 0 m"#"Loma Mansa  1,948 m"#1.88#15.33#82.79#402#293.6
+38#110879#108489#2390#"Black Sea 0 m"#"Musala 2,925 m"#1.44#29.28#69.28#354#1046
+100#245857#245717#140#"Atlantic Ocean 0 m"#"Mont Nimba 1,752 m"#2.81#11.59#85.6#320#949.2
+216#49035#48105#930#"Bodrok River 94 m"#"Gerlachovsky Stit 2,655 m"#0.41#28.36#71.22#0#1720
+12#2780400#2736690#43710#"Laguna del Carbon -105 m"#"Cerro Aconcagua 6,960 m"#0.36#13.68#85.96#4989#15500
+19#86600#82629#3971#"Caspian Sea -28 m"#"Bazarduzu Dagi 4,485 m"#2.62#21.78#75.6#0#14250
+241#747#717#30#"Pacific Ocean 0 m"#"unnamed elevation on Kao Island 1,033 m"#14.67#21.33#64#419#
+74#21041#20721#320#"Pacific Ocean 0 m"#"Cerro El Pital 2,730 m"#10.93#31.61#57.46#307#449.9
+184#11.9#11.9#0#"Pacific Ocean 0 m"#"unnamed location 2 m"#0#0#100#14.5#
+24#207600#202900#4700#"Nyoman River 90 m"#"Dzyarzhynskaya Hara 346 m"#0.59#26.63#72.78#0#1150
+96#344#344#0#"Caribbean Sea 0 m"#"Mount Saint Catherine 840 m"#20.59#8.82#70.59#121#2.19
+57#342000#341500#500#"Atlantic Ocean 0 m"#"Mount Berongou 903 m"#0.18#1.46#98.36#169#20
+73#1001450#995450#6000#"Qattara Depression -133 m"#"Mount Catherine 2,629 m"#0.79#2.87#96.34#2450#34220
+3#28748#27398#1350#"Adriatic Sea 0 m"#"Maja e Korabit  2,764 m"#2.57#21.63#75.79#362#1884
+238#14874#14874#0#"Timor Sea, Savu Sea, and Banda Sea 0 m"#"Foho Tatamailau 2,963 m"#4.03#10.09#85.88#706#346.5
+49#756102#743812#12290#"Pacific Ocean 0 m"#"Nevado Ojos del Salado 6,880 m"#0.6#1.74#97.65#6435#11990
+105#0.44#0.44#0#"unnamed location 19 m"#"unnamed elevation 75 m"#0##100#0#0
+139#30355#30355#0#"junction of the Orange and Makhaleng Rivers 1,400 m"#"Thabana Ntlenyana 3,482 m"#0.13#10.14#89.72#0#26.37
+50#9596961#9569901#27060#"Turpan Pendi -154 m"#"Mount Everest 8,850 m"#1.53#11.62#86.84#14500#629380
+227#1861484###"Red Sea 0 m"#"Jabal Marrah 3,071 m"#0.07#6.76#93.17#853#18900
+83#338145#303815#34330#"Baltic Sea 0 m"#"Halti  1,328 m"#0.01#6.65#93.34#1250#685.8
+6#468#468#0#"Riu Runer 840 m"#"Pic de Coma Pedrosa 2,946 m"#0#5.32#94.68#0#
+110#103000#100250#2750#"Atlantic Ocean 0 m"#"Hvannadalshnukur 2,110 m"#0#1.19#98.81#4970#
+253####"Pacific Ocean 0 m"#"Baker Island, unnamed location - 8 m; Howland Island, unnamed location - 3 m; Jarvis Island, unnamed location - 7 m; Johnston Atoll, Sand Island - 10 m; Kingman Reef, unnamed location - less than 2 m; Midway Islands, unnamed location - 13 m; Palmyra Atoll, unnamed location - 3 m"#0#0#100##
+51#135#135#0#"Indian Ocean 0 m"#"Murray Hill 361 m"#0#0#100#138.9#
+43#475440#472710#2730#"Atlantic Ocean 0 m"#"Fako 4,095 m"#2.94#13.04#84.01#402#256.5
+237#513120#510890#2230#"Gulf of Thailand 0 m"#"Doi Inthanon 2,576 m"#8.77#30.71#60.52#3219#64150
+153#181#181#0#"Pacific Ocean 0 m"#"unnamed location on Likiep 10 m"#44.44#11.11#44.44#370.4#0
+13#29743#28203#1540#"Debed River 400 m"#"Aragats Lerrnagagat' 4,090 m"#1.8#14.47#83.74#0#2735
+22#143998#130168#13830#"Indian Ocean 0 m"#"Keokradong 1,230 m"#6.25#52.97#40.78#580#50500
+26#22966#22806#160#"Caribbean Sea 0 m"#"Doyle's Delight 1,160 m"#1.39#3.27#95.34#386#30
+8#91#91#0#"Caribbean Sea 0 m"#"Crocus Hill 65 m"#0#0#100#61#
+47#622984#622984#0#"Oubangui River 335 m"#"Mont Ngaoui 1,420 m"#0.13#2.89#96.98#0#1.35
+142#160#160#0#"Ruggeller Riet 430 m"#"Vorder-Grauspitz 2,599 m"#0#21.88#78.12#0#
+260#6.5#6.5#0#"Pacific Ocean 0 m"#"unnamed location 6 m"#0#0#100#19.3#0
+193#92090#91470#620#"Atlantic Ocean 0 m"#"Ponta do Pico  on Ilha do Pico in the Azores 2,351 m"#7.71#11.88#80.41#1793#5837
+15#5#5#0#"Indian Ocean 0 m"#"unnamed location 3 m"#0#0#100#74.1#
+16#76762000###"Milwaukee Deep in the Puerto Rico Trench -8,605 m"#"sea level 0 m"####111866#
+58#236#236#0#"Pacific Ocean 0 m"#"Te Manga 652 m"#4.17#8.33#87.5#120#
+67#43094#42434#660#"Lammefjord -7 m"#"Mollehoj/Ejer Bavnehoj 171 m"#0.09#57.99#41.91#7314#4354
+150#298#298#0#"Indian Ocean 0 m"#"unnamed location on Viligili in the Addu Atholhu 2.4 m"#10#10#80#644#0
+138#10400#10230#170#"Mediterranean Sea 0 m"#"Qornet es Saouda 3,088 m"#12.06#10.72#77.22#225#1040
+190#300000#298170#1830#"Philippine Sea 0 m"#"Mount Apo 2,954 m"#17.33#18#64.67#36289#18790
+151#1240192#1220190#20002#"Senegal River 23 m"#"Hombori Tondo 1,155 m"#0.1#5.53#94.37#0#2358
+91#357022#348672#8350#"Neuendorf bei Wilster -3.54 m"#"Zugspitze 2,963 m"#0.56#33.25#66.19#2389#5157
+7#1246700#1246700#0#"Atlantic Ocean 0 m"#"Morro de Moco 2,620 m"#0.23#3.29#96.48#1600#855.3
+147#587041#581540#5501#"Indian Ocean 0 m"#"Maromokotro 2,876 m"#1.02#5.96#93.02#4828#10860
+124#116#116#0#"Atlantic Ocean 0 m"#"unnamed elevation 143 m"####70#
+64#444#444#0#"Caribbean Sea 0 m"#"Mt. Christoffel, 372m"#0#10#90#364#
+36#151#151#0#"Caribbean Sea 0 m"#"Mount Sage 521 m"#6.67#6.67#86.67#80#
+53#14#14#0#"Indian Ocean 0 m"#"unnamed location 5 m"#0#0#100#26#
+59###0#"Pacific Ocean 0 m"#"unnamed location on Cato Island 6 m"#0#0#100#3095#0
+186#462840#452860#9980#"Pacific Ocean 0 m"#"Mount Wilhelm 4,509 m"#1.51#0.65#97.84#5152#0
+4#2381741#2381741#0#"Chott Melrhir -40 m"#"Tahat 3,003 m"#0.38#3.15#96.46#998#5694
+84#643801#640427#3374#"Rhone River delta -2 m"#"Mont Blanc 4,807 m"#1.86#33.45#64.69##
+240#12#12#0#"Pacific Ocean 0 m"#"unnamed location 5 m"#60#0#40#101#
+128#580367#569140#11227#"Indian Ocean 0 m"#"Mount Kenya 5,199 m"#1.12#9.48#89.4#536#1032
+111#3287263#2973193#314070#"Indian Ocean 0 m"#"Kanchenjunga 8,598 m"#3.74#47.87#48.39#7000#663340
+201#261#261#0#"Caribbean Sea 0 m"#"Mount Liamuiga 1,156 m"#0.38#19.23#80.38#135#0.18
+176#260#260#0#"Pacific Ocean 0 m"#"unnamed elevation near Mutalau settlement 68 m"#11.54#3.85#84.62#64#
+197#17098242#16377742#720500#"Caspian Sea -28 m"#"Gora El'brus 5,633 m"#0.1#7.11#92.79#37653#43460
+99#78#78#0#"Atlantic Ocean 0 m"#"unnamed elevation on Sark 114 m"####50#
+180#309500#309500#0#"Arabian Sea 0 m"#"Jabal Shams 2,980 m"#0.12#0.1#99.77#2092#588.5
+122#377915#364485#13430#"Hachiro-gata -4 m"#"Fujiyama 3,776 m"#0.81#11.26#87.93#29751#25000
+261#142#142#0#"Pacific Ocean 0 m"#"Mont Singavi  765 m"#35.71#7.14#57.15#129#
+93#6.5#6.5#0#"Mediterranean Sea 0 m"#"Rock of Gibraltar 426 m"#0#0#100#12#
+171#18575#18275#300#"Pacific Ocean 0 m"#"Mont Panie 1,628 m"#0.27#0.38#99.34#2254#100
+60#51100#51060#40#"Pacific Ocean 0 m"#"Cerro Chirripo 3,810 m"#6.46#4.89#88.65#1290#1031
+35#54400#60#54340#"Indian Ocean 0 m"#"unnamed location on Diego Garcia 15 m"#0#0#100#698#
+174#1267000#1266700#300#"Niger River 200 m"#"Idoukal-n-Taghes 2,022 m"#0.05#11.79#88.16#0#736.6
+218#28896#27986#910#"Pacific Ocean 0 m"#"Mount Popomanaseu 2,310 m"#2.25#0.62#97.13#5313#
+126#89342#88802#540#"Dead Sea -408 m"#"Jabal Umm ad Dami 1,854 m"#0.95#1.97#97.08#26#788.6
+254#176215#175015#1200#"Atlantic Ocean 0 m"#"Cerro Catedral 514 m"#0.22#10.25#89.52#660#1810
+209#2149690#2149690#0#"Persian Gulf 0 m"#"Jabal Sawda' 3,133 m"#0.11#1.45#98.44#2640#16200
+189#1285216#1279996#5220#"Pacific Ocean 0 m"#"Nevado Huascaran 6,768 m"#0.66#2.84#96.5#2414#11960
+70#751#751#0#"Caribbean Sea 0 m"#"Morne Diablotins 1,447 m"#24#8#68#148#
+106#112090#111890#200#"Caribbean Sea 0 m"#"Cerro Las Minas 2,870 m"#3.91#9.07#87.02##878.5
+205#389#389#0#"Caribbean Sea 0 m"#"La Soufriere 1,234 m"#7.69#12.82#79.49#84#10
+56#2344858#2267048#77810#"Atlantic Ocean 0 m"#"Pic Marguerite on Mont Ngaliema  5,110 m"#0.32#2.9#96.78#37#105
+265#527968#527968#0#"Arabian Sea 0 m"#"Jabal an Nabi Shu'ayb 3,760 m"#0.55#2.2#97.25#1906#6801
+239#56785#54385#2400#"Atlantic Ocean 0 m"#"Mont Agou 986 m"#3.7#44.2#52.1#56#73
+170#41543#33893#7650#"Zuidplaspolder -7 m"#"Mount Scenery 862 m"#0.88#25.08#74.04#451#4572
+18#83871#82445#1426#"Neusiedler See 115 m"#"Grossglockner 3,798 m"#0.77#16.25#82.98#0#1170
+178#464#464#0#"Pacific Ocean 0 m"#"unnamed elevation on Agrihan 965 m"#2.17#2.17#95.65#1482#1
+88#11295#10000#1295#"Atlantic Ocean 0 m"#"unnamed elevation 53 m"#0.44#39.82#59.73#80#50
+141#1759540#1759540#0#"Sabkhat Ghuzayyil -47 m"#"Bikku Bitti 2,267 m"#0.19#0.99#98.82#1770#4700
+89#360#360#0#"Mediterranean Sea 0 m"#"Abu 'Awdah  105 m"#10.96#7.39#81.64#40#240
+135#199951#191801#8150#"Kara-Daryya  132 m"#"Jengish Chokusu  7,439 m"#0.37#6.38#93.24#0#10210
+165#799380#786380#13000#"Indian Ocean 0 m"#"Monte Binga 2,436 m"#0.25#6.51#93.24#2470#1181
+118#20770#20330#440#"Dead Sea -408 m"#"Har Meron 1,208 m"#3.69#13.68#82.62#273#2250
+188#406752#397302#9450#"junction of Rio Paraguay and Rio Parana 46 m"#"Cerro Pero 842 m"#0.22#9.59#90.19#0#670
+236#947300#885800#61500#"Indian Ocean 0 m"#"Kilimanjaro 5,895 m"#1.79#12.25#85.96#1424#1843
+223#20327000###"-7,235 m at the southern end of the South Sandwich Trench"#"sea level 0 m"####17968#
+17#7741220#7682300#58920#"Lake Eyre -15 m"#"Mount Kosciuszko 2,229 m"#0.05#6.16#93.79#25760#25460
+46#264#264#0#"Caribbean Sea 0 m"#"The Bluff on Cayman Brac 43 m"#2.08#0.83#97.08#160#
+242#5128#5128#0#"Caribbean Sea 0 m"#"El Cerro del Aripo 940 m"#4.29#4.87#90.84#362#36
+267#390757#386847#3910#"junction of the Runde and Save Rivers 162 m"#"Inyangani 2,592 m"#0.31#10.49#89.2#0#1735
+255#447400#425400#22000#"Sariqamish Kuli -12 m"#"Adelunga Toghi 4,301 m"#0.8#9.61#89.58#0#41980
+169#147181#143351#3830#"Kanchan Kalan 70 m"#"Mount Everest 8,850 m"#0.8#16#83.2#0#11680
+211#77474#77474#0#"Danube and Timok Rivers 35 m"#"Midzor 2,169 m"#3.41#37.28#59.31#0#919.6
+80#12173#12173#0#"Atlantic Ocean 0 m"#"Mount Usborne 705 m"#0#0#100#1288#
+98#108889#107159#1730#"Pacific Ocean 0 m"#"Volcan Tajumulco 4,211 m"#8.68#13.78#77.55#400#3121
+107#1104#1054#50#"South China Sea 0 m"#"Tai Mo Shan 958 m"#1.01#5.05#93.94#733#
+167#21#21#0#"Pacific Ocean 0 m"#"unnamed elevation along plateau rim 61 m"#20#0#80#30#
+162#13812#13452#360#"Adriatic Sea 0 m"#"Bobotov Kuk 2,522 m"#1.16#12.45#86.39#293.5#24.12
+1#652230#652230#0#"Amu Darya 258 m"#"Noshak 7,485 m"#0.18#11.95#87.87#0#32080
+20#13880#10010#3870#"Atlantic Ocean 0 m"#"Mount Alvernia on Cat Island 63 m"#0.29#0.65#99.06#3542#10
+97#544#544#0#"Pacific Ocean 0 m"#"Mount Lamlam 406 m"#16.67#1.85#81.48#125.5#2
+86####"Indian Ocean 0 m"#"Mont de la Dives on Ile Amsterdam  7 m"#####0
+182#796095#770875#25220#"Indian Ocean 0 m"#"K2  8,611 m"#1.05#26.02#72.93#1046#199900
+133#10887#10887#0#"Drini i Bardhe/Beli Drim 297 m"#"Gjeravica/Deravica 2,656 m"####0#
+132#99720#96920#2800#"Sea of Japan 0 m"#"Halla-san 1,950 m"#2.06#14.93#83#2413#8804
+149#329847#328657#1190#"Indian Ocean 0 m"#"Gunung Kinabalu 4,100 m"#17.49#5.44#77.07#4675#3800
+129#1#1#0#"Pacific Ocean 0 m"#"unnamed location 1 m"#0#0#100#3#
+116#70273#68883#1390#"Atlantic Ocean 0 m"#"Carrauntoohil 1,041 m"#0.01#15.11#84.87#1448#11
+82#18274#18274#0#"Pacific Ocean 0 m"#"Tomanivi 1,324 m"#4.65#9.17#86.17#1129#30
+256#12189#12189#0#"Pacific Ocean 0 m"#"Tabwemasana 1,877 m"#10.25#1.64#88.11#2528#
+217#20273#20151#122#"Adriatic Sea 0 m"#"Triglav 2,864 m"#1.33#8.31#90.36#46.6#76.04
+131#120538#120408#130#"Sea of Japan 0 m"#"Paektu-san 2,744 m"#1.7#19.08#79.22#2495#14600
+40#676578#653508#23070#"Andaman Sea 0 m"#"Hkakabo Razi 5,881 m"#2.16#15.94#81.89#1930#21100
+232#41277#39997#1280#"Lake Maggiore 195 m"#"Dufourspitze 4,634 m"#0.57#9.8#89.63#0#550
+117#572#572#0#"Irish Sea 0 m"#"Snaefell 621 m"#0#43.86#56.14#160#0
+34#8514877#8459417#55460#"Atlantic Ocean 0 m"#"Pico da Neblina 2,994 m"#0.83#8.45#90.72#7491#54000
+130#811#811#0#"Pacific Ocean 0 m"#"unnamed elevation on Banaba 81 m"#39.51#2.47#58.02#1143#
+247#26#26#0#"Pacific Ocean 0 m"#"unnamed location 5 m"#60#0#40#24#
+101#36125#28120#8005#"Atlantic Ocean 0 m"#"unnamed elevation in the eastern part of the country 300 m"#6.92#8.3#84.78#350#225.6
+226#65610#64630#980#"Indian Ocean 0 m"#"Pidurutalagala 2,524 m"#14.94#18.29#66.77#1340#5700
+177#36#36#0#"Pacific Ocean 0 m"#"Mount Bates 319 m"#0#0#100#32#
+102#214969#196849#18120#"Atlantic Ocean 0 m"#"Mount Roraima 2,835 m"#0.13#1.95#97.92#459#1501
+119#301340#294140#7200#"Mediterranean Sea 0 m"#"Mont Blanc"#8.37#22.57#69.07#7600#39510
+37#5765#5265#500#"South China Sea 0 m"#"Bukit Pagon 1,850 m"#0.87#0.52#98.61#161#10
+21#760#760#0#"Persian Gulf 0 m"#"Jabal ad Dukhan 122 m"#3.95#1.79#94.26#161#40.15
+146#25713#25433#280#"Vardar River 50 m"#"Golem Korab  2,764 m"#1.36#16.1#82.54#0#1278
+65#9251#9241#10#"Mediterranean Sea 0 m"#"Mount Olympus 1,951 m"#3.54#9.06#87.41#648#457.9
+55#2235#2235#0#"Indian Ocean 0 m"#"Karthala 2,360 m"#31.17#44.06#24.77#340#1.3
+62#56594#55974#620#"Adriatic Sea 0 m"#"Dinara 1,831 m"#1.47#15.85#82.69#5835#36.27
+173#130370#119990#10380#"Pacific Ocean 0 m"#"Mogoton 2,438 m"#1.76#14.57#83.66#910#942.4
+221#3903#3903#0#"Atlantic Ocean 0 m"#"Mount Paget  2,934 m"#0#0#100##0
+115#438317#437367#950#"Persian Gulf 0 m"#"unnamed peak; 3,611 m; note - this peak is neither Gundah Zhur 3,607 m nor Kuh-e Hajji-Ebrahim 3,595 m"#0.48#9.19#90.33#58#35250
+183#459#459#0#"Pacific Ocean 0 m"#"Mount Ngerchelchuus 242 m"#4.35#2.17#93.48#1519#
+95#2166086#2166086##"Atlantic Ocean 0 m"#"Gunnbjorn Fjeld 3,700 m"#0#0#100#44087#
+14#180#180#0#"Caribbean Sea 0 m"#"Ceru Jamanota 188 m"#0#11.11#88.89#68.5#
+249#603550#579330#24220#"Black Sea 0 m"#"Hora Hoverla 2,061 m"#1.48#53.85#44.67#2782#21750
+69#23200#23180#20#"Lac Assal -155 m"#"Moussa Ali 2,028 m"#0#0.09#99.91#314#10.12
+219#637657#627337#10320#"Indian Ocean 0 m"#"Shimbiris 2,416 m"#0.05#1.73#98.23#3025#2000
+158#6.2#6.2#0#"Pacific Ocean 0 m"#"unnamed location 13 m"#0#0#100#15#0
+264#510072000#148940000#361132000#"Bentley Subglacial Trench  -2,555 m"#"Mount Everest 8,850 m"#1.15#10.43#88.42#356000#3096621.45
+191#47#47#0#"Pacific Ocean 0 m"#"Big Ridge 347 m"#0#0#100#51#
+29#38394#38394#0#"Drangeme Chhu 97 m"#"Gangkar Puensum 7,570 m"#0.46#2.49#97.06#0#319.1
+123#4.5#4.5#0#"Pacific Ocean 0 m"#"unnamed location 7 m"#0#0#100#8#0
+192#312685#304255#8430#"near Raczki Elblaskie -2 m"#"Rysy 2,499 m"#1.25#35.49#63.26#440#1157
+144#2586#2586#0#"Moselle River 133 m"#"Buurgplaatz 559 m"#0.58#23.9#75.52#0#
+77#45228#42388#2840#"Baltic Sea 0 m"#"Suur Munamagi 318 m"#0.13#13.97#85.89#3794#4.58
+175#923768#910768#13000#"Atlantic Ocean 0 m"#"Chappal Waddi 2,419 m"#3.46#38.97#57.57#853#2932
+72#283561#276841#6720#"Pacific Ocean 0 m"#"Chimborazo 6,267 m"#5.38#4.51#90.11#2237#8534
+224#505370#498980#6390#"Atlantic Ocean 0 m"#"Pico de Teide  on Canary Islands 3,718 m"#9.29#24.75#65.96#4964#34700
+195#11586#11586#0#"Persian Gulf 0 m"#"Tuwayyir al Hamir 103 m"#0.17#1.21#98.62#563#129.4
+263#266000#266000#0#"Sebjet Tah -55 m"#"unnamed elevation 805 m"#0#0.02#99.98#1110#
+90#69700#69700#0#"Black Sea 0 m"#"Mt'a Shkhara 5,201 m"#1.65#5.94#92.41#310#4328
+78#1104300#1000000#104300#"Danakil Depression -125 m"#"Ras Dejen 4,533 m"#1.01#13.19#85.8#0#2896
+203#54.4#54.4##"Caribbean Ocean 0 m"#"Pic du Paradis 424 m"####58.9#
+245#488100#469930#18170#"Vpadina Akchanaya -81 m"#"Gora Ayribaba 3,139 m"#0.12#3.89#95.98#0#19910
+252#9826675#9161966#664709#"Death Valley -86 m"#"Mount McKinley"#0.26#16.29#83.44#19924#266440
+228#163820#156000#7820#"unnamed location in the coastal plain -2 m"#"Juliana Top 1,230 m"#0.04#0.36#99.6#386#511.8
+231#450295#410335#39960#"reclaimed bay of Lake Hammarsjon, near Kristianstad -2.4 m"#"Kebnekaise 2,111 m"#0.02#5.8#94.18#3218#1597
+54#1138910#1038700#100210#"Pacific Ocean 0 m"#"Pico Cristobal Colon 5,775 m"#1.66#1.84#96.5#3208#10870
+113#1904569#1811569#93000#"Indian Ocean 0 m"#"Puncak Jaya 4,884 m"#10.5#12.34#77.16#54716#67220
+32#581730#566730#15000#"junction of the Limpopo and Shashe Rivers 513 m"#"Tsodilo Hills 1,489 m"#0#0.45#99.55#0#14.39
+250#83600#83600#0#"Persian Gulf 0 m"#"Jabal Yibir 1,527 m"#0.5#0.61#98.9#1318#920
+76#117600#101000#16600#"near Kulul within the Danakil Depression -75 m"#"Soira 3,018 m"#0.02#5.87#94.12#2234#215.9
+39#274200#273800#400#"Mouhoun  River 200 m"#"Tena Kourou 749 m"#0.24#20.79#78.98#0#250
+160#2#2#0#"Mediterranean Sea 0 m"#"Mont Agel 140 m"#1#0#99#4.1#
+94#131957#130647#1310#"Mediterranean Sea 0 m"#"Mount Olympus 2,917 m"#8.73#18.95#72.32#13676#15550
+11#14056000###"Fram Basin -4,665 m"#"sea level 0 m"####45389#
+154#1030700#1030700#0#"Sebkhet Te-n-Dghamcha -5 m"#"Kediet Ijill 915 m"#0.01#0.44#99.55#754#450.1
+87#267667#257667#10000#"Atlantic Ocean 0 m"#"Mont Iboundji 1,575 m"#0.64#1.21#98.15#885#44.5
+79#4324782###"Lammefjord, Denmark -7 m; Zuidplaspolder, Netherlands -7 m"#"Mont Blanc 4,807 m; note - situated on the border between France and Italy"#2.75#24.91#72.34#65992.9#154539.82
+155#2040#2030#10#"Indian Ocean 0 m"#"Mont Piton 828 m"#1.96#38.24#59.8#177#212.2
+108#1.6#1.6#0#"Pacific Ocean 0 m"#"unnamed location 3 m"#0#0#100#6.4#0
+194#13790#8870#4921#"Caribbean Sea 0 m"#"Cerro de Punta 1,338 m"#4.51#6.76#88.73#501#220.4
